@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BookmarksViewState">
+    <option name="rewriteBookmarkType" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5ac72f5-c00f-4cae-af21-db6806e44b43" name="Changes" comment="task 2 commit">
+      <change beforePath="$PROJECT_DIR$/src/NoLiveLocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NoLiveLocks.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/17.0.8-oracle/lib/src.zip!/java.base/java/util/SplittableRandom.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3LPlXYj1XoTygiEInzsuwenztBC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Benchmark.executor": "Run",
+    "Application.Blocking (1).executor": "Run",
+    "Application.Blocking (2).executor": "Run",
+    "Application.Blocking.executor": "Run",
+    "Application.Homework3.executor": "Run",
+    "Application.NoLiveLocks (1).executor": "Run",
+    "Application.NoLiveLocks (2).executor": "Run",
+    "Application.NoLiveLocks (3).executor": "Run",
+    "Application.NoLiveLocks (4).executor": "Run",
+    "Application.NoLiveLocks.executor": "Run",
+    "Application.RestartBlocking (1).executor": "Run",
+    "Application.RestartBlocking (2).executor": "Run",
+    "Application.RestartBlocking (3).executor": "Run",
+    "Application.RestartBlocking.executor": "Run",
+    "Maven.Unknown [clean].executor": "Run",
+    "Maven.adb_2026_task_2 [clean].executor": "Run",
+    "Maven.adb_2026_task_2 [compile].executor": "Run",
+    "Maven.adb_2026_task_2 [install].executor": "Run",
+    "Maven.adb_2026_task_2 [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.adb_2026_task_2 [org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile].executor": "Run",
+    "Maven.adb_2026_task_2 [org.apache.maven.plugins:maven-install-plugin:3.1.2:install].executor": "Run",
+    "Maven.adb_2026_task_2 [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/dipro/workspace/my-workspace/Masters/advance_database_lab/adb_2026_task_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Homework3">
+    <configuration name="Benchmark" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Benchmark" />
+      <module name="adb_2026_task_2" />
+      <option name="PROGRAM_PARAMETERS" value="sweep 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Blocking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Blocking" />
+      <module name="adb_2026_task_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Homework3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework3" />
+      <module name="adb_2026_task_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NoLiveLocks (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NoLiveLocks" />
+      <module name="adb_2026_task_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestartBlocking (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RestartBlocking" />
+      <module name="adb_2026_task_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="adb_2026_task_2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="adb_2026_task_2" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Benchmark" />
+      <item itemvalue="Application.Blocking" />
+      <item itemvalue="Application.Homework3" />
+      <item itemvalue="Application.NoLiveLocks (1)" />
+      <item itemvalue="Application.RestartBlocking (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework3" />
+        <item itemvalue="Application.Blocking" />
+        <item itemvalue="Application.RestartBlocking (1)" />
+        <item itemvalue="Application.NoLiveLocks (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5ac72f5-c00f-4cae-af21-db6806e44b43" name="Changes" comment="" />
+      <created>1793363624930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793363624930</updated>
+      <workItem from="1793363626300" duration="781000" />
+      <workItem from="1793364431044" duration="170000" />
+      <workItem from="1793374862534" duration="10572000" />
+      <workItem from="1793645956543" duration="3668000" />
+      <workItem from="1794303989724" duration="1288000" />
+      <workItem from="1795367274461" duration="411000" />
+      <workItem from="1795367957951" duration="942000" />
+      <workItem from="1795371426254" duration="8273000" />
+      <workItem from="1795380172212" duration="465000" />
+      <workItem from="1795380655213" duration="19096000" />
+    </task>
+    <task id="LOCAL-00001" summary="task 2 commit">
+      <option name="closed" value="true" />
+      <created>1793449948051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793449948051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task 2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 2 commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
